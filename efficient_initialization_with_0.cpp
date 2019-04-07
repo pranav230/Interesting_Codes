@@ -1,5 +1,5 @@
 /*
-										Initializating a 2-d or 1-d array with 0
+Initializating a 2-d or 1-d array with 0
 
 Mainly there are two ways
 1.	You can initialize the whole array while declaration
