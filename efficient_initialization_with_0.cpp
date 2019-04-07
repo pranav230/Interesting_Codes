@@ -15,7 +15,7 @@ int main()
 {
 	time_point<system_clock> start, end; 
   	start = system_clock::now();
-    
+  
 //	First Way
     int arrayA[1000][1000]={0};
     
