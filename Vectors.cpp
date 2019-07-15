@@ -1,5 +1,5 @@
 /*
-Some Codes that are useful while Competitve Coding
+Some statements that may be useful in Competitve Coding
 */
 
 
